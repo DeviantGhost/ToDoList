@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-UnfavoriteIcon">
+      <rect width="20" height="20"/>
+    </clipPath>
+  </defs>
+  <g id="UnfavoriteIcon" clip-path="url(#clip-UnfavoriteIcon)">
+    <path id="Path_1647" data-name="Path 1647" d="M2160,4780.592v-13.134h10.756v13.134l-5.216-2.785Z" transform="translate(-2155.253 -4764)" fill="none" stroke="#fff" stroke-width="1"/>
+  </g>
+</svg>
